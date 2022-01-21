@@ -1,6 +1,8 @@
 # 窗口强制置顶
 By: Immortal-autumn
 
+BILIBILI: https://space.bilibili.com/1765662
+
 ## 使用方法:
 ### 运行源代码：使用python环境运行main.py
 
