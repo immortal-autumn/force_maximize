@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "D:\\Users\\Lenovo\\anaconda3\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "PyCharm (classifier)",
+ "language": "python"
+}

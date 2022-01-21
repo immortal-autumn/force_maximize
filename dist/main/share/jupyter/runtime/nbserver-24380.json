@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "E:\\BILI\\classifier",
+  "password": false,
+  "pid": 24380,
+  "port": 8889,
+  "secure": false,
+  "sock": "",
+  "token": "79f1a5b80a27de513ff2eb8b12c7a3afb43d83d9a328d1de",
+  "url": "http://localhost:8889/"
+}
